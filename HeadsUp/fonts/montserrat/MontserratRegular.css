@@ -1,9 +1,9 @@
 @font-face {
-    font-family: 'MontserratRegular';
-    src: url('fonts/MontserratRegular.eot');
-    src: url('fonts/MontserratRegular.eot') format('embedded-opentype'),
-         url('fonts/MontserratRegular.woff2') format('woff2'),
-         url('fonts/MontserratRegular.woff') format('woff'),
-         url('fonts/MontserratRegular.ttf') format('truetype'),
-         url('fonts/MontserratRegular.svg#MontserratRegular') format('svg');
+    font-family: 'Montserrat';
+    src: url('http://reatlat.github.io/assets/HeadsUp/fonts/montserrat/MontserratRegular.eot');
+    src: url('http://reatlat.github.io/assets/HeadsUp/fonts/montserrat/MontserratRegular.eot') format('embedded-opentype'),
+         url('http://reatlat.github.io/assets/HeadsUp/fonts/montserrat/MontserratRegular.woff2') format('woff2'),
+         url('http://reatlat.github.io/assets/HeadsUp/fonts/montserrat/MontserratRegular.woff') format('woff'),
+         url('http://reatlat.github.io/assets/HeadsUp/fonts/montserrat/MontserratRegular.ttf') format('truetype'),
+         url('http://reatlat.github.io/assets/HeadsUp/fonts/montserrat/MontserratRegular.svg#MontserratRegular') format('svg');
 }
