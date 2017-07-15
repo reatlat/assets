@@ -1,0 +1,1 @@
+var $_GET;$_GET=function(n){var o;return o={},window.location.href.replace(location.hash,"").replace(/[?&]+([^=&]+)=?([^&]*)?/gi,function(n,a,i){o[a]=void 0!==i?i:""}),n?o[n]?o[n]:null:o};
